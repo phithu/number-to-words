@@ -5,19 +5,19 @@ var ENDS_WITH_TEEN_PATTERN = /teen$/;
 var ENDS_WITH_Y_PATTERN = /y$/;
 var ENDS_WITH_ZERO_THROUGH_TWELVE_PATTERN = /(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)$/;
 var ordinalLessThanThirteen = {
-    zero: 'zeroth',
-    one: 'first',
-    two: 'second',
-    three: 'third',
-    four: 'fourth',
-    five: 'fifth',
-    six: 'sixth',
-    seven: 'seventh',
-    eight: 'eighth',
-    nine: 'ninth',
-    ten: 'tenth',
-    eleven: 'eleventh',
-    twelve: 'twelfth'
+    zero: 'không',
+    one: 'một',
+    two: 'hai',
+    three: 'ba',
+    four: 'bốn',
+    five: 'năm',
+    six: 'sáu',
+    seven: 'bảy',
+    eight: 'tám',
+    nine: 'chín',
+    ten: 'mười',
+    eleven: 'mười một',
+    twelve: 'mười hai'
 };
 
 /**
